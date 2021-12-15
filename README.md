@@ -1,3 +1,8 @@
+This repository is meant to serve as a basic template from which individuals can get started with a website tied to a Craft.do document deployed through Netlify. You can find the sample site, which includes a step-by-step walkthrough on how to get your own site up and running by forking this repo at https://craft-website-demo.netlify.app.
+
+
+# Below is the original Netlify template description
+
 # Next + Netlify Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46648482-644c-4c80-bafb-872057e51b6b/deploy-status)](https://app.netlify.com/sites/next-dev-starter/deploys)
